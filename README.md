@@ -1,1 +1,1 @@
-This is a React Full Stack TodoApp in which Backend is developed in Spring Boot and it can store data in My SQL server. Right now this app is in developing phase.
+This is a React Counter App Which is just a simple application which can add or subtract numbers by clicking buttons.
